@@ -1,4 +1,4 @@
-# 🚀 Seven Sistemas
+# 💻 Seven Sistemas
 
 Bem-vindo ao repositório da **Seven Sistemas de Automação**.
 
