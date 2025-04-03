@@ -4,7 +4,7 @@ Bem-vindo ao repositório da **Seven Sistemas de Automação**.
 
 ## 📌 Sobre Nós
 
-A **Seven Sistemas de Automação** é uma empresa alagoana, situada em Maceió, que atua no ramo de **automação comercial**, oferecendo **soluções inovadoras** para atender nossos clientes conforme as exigências legais atuais. Nosso principal foco é a **integração contábil e fiscal**, servindo como ponte entre o sistema de nossos clientes e sua contabilidade, agilizando os processos contábeis e fiscais por meio de nossas ferramentas.
+A **Seven Sistemas** é uma empresa alagoana, situada em Maceió, que atua no ramo de **automação comercial**, oferecendo **soluções inovadoras** para atender nossos clientes conforme as exigências legais atuais. Nosso principal foco é a **integração contábil e fiscal**, servindo como ponte entre o sistema de nossos clientes e sua contabilidade, agilizando os processos contábeis e fiscais por meio de nossas ferramentas.
 
 ## 🎯 Missão
 
